@@ -1,3 +1,5 @@
+All rights reserved -- Gluu Copyright 2017
+
 # oxd-kong
 
 ## Introduction
